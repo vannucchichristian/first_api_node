@@ -23,5 +23,6 @@
   "homepage": "https://github.com/vannucchichristian/first_api_node#readme",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "type": "module"
 }
